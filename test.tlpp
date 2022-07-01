@@ -1,0 +1,13 @@
+#include "totvs.ch"
+
+User Function aula1()
+    
+    //conout("teste")
+    //MsgAlert("teste", "teste")
+    alert("Hellow World!")
+
+    
+
+
+
+Return 
